@@ -1,0 +1,4 @@
+baseURL = "https://thekaseys.github.io/"
+languageCode = "en-us"
+title = "the_kaseys"
+theme = "uilite"

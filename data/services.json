@@ -1,0 +1,10 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Custom Apps",
+			"description" : "Get your amazing app idea built into an app on the App Store and Play Store."
+		}
+	]
+}

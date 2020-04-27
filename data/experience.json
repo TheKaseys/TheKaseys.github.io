@@ -1,0 +1,16 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "March 2015 - January 2017",
+			"company" : "Self employed",
+			"description" : "For the first two years of my coding career I made so many random apps on iOS, Android, and Unity 3D. I even started a YouTube channel teaching people how to code."
+		},
+		{
+			"timeperiod" : "January 2017 - Present",
+			"company" : "YouVersion",
+			"website": "https://www.youversion.com/",
+			"description" : "As a Android Engineer at YouVersion we help people around the world engage with God’s Word by developing, refining, and growing the YouVersion Bible App mobile experience on Android devices."
+		}
+	]
+}
