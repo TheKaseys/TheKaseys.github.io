@@ -1,10 +1,6 @@
 [submodule "themes/uilite"]
 	path = themes/uilite
 	url = https://github.com/uicardiodev/hugo-uilite.git
-[submodule "thekaseys.github.io"]
-	path = thekaseys.github.io
-	url = https://github.com/TheKaseys/thekaseys.github.io.git
-	branch = master
 [submodule "theme/uilite"]
 	path = theme/uilite
 	url = https://github.com/uicardiodev/hugo-uilite.git
