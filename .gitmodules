@@ -5,3 +5,9 @@
 	path = thekaseys.github.io
 	url = https://github.com/TheKaseys/thekaseys.github.io.git
 	branch = master
+[submodule "theme/uilite"]
+	path = theme/uilite
+	url = https://github.com/uicardiodev/hugo-uilite.git
+[submodule "theme/hugo-uilite"]
+	path = theme/hugo-uilite
+	url = https://github.com/uicardiodev/hugo-uilite.git
