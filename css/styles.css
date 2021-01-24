@@ -2,9 +2,15 @@ html {
   overflow-x: hidden;
   overflow-y: scroll;
 }
-a:hover {
-  text-decoration: none;
+
+.static {
+  position:absolute;
+  background: white;
 }
+.static:hover {
+  opacity:0;
+}
+
 .sidebar {
   position: fixed;
   left: 0px;
