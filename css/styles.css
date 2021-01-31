@@ -5,10 +5,19 @@ html {
 
 .static {
   position:absolute;
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 100%;
   background: white;
 }
+@media screen and (min-width: 800px) {
 .static:hover {
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -ms-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
   opacity:0;
+}
 }
 
 .sidebar {
@@ -262,6 +271,11 @@ section.pink {
 .card {
   border-radius: 6px;
   border: none;
+}
+
+.card.img {
+  min-width: 100%;
+  min-height: 100%
 }
 
 #timeline {
